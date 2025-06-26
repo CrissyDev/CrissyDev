@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developmet using Angular and CMS Tools
 - 🌱 I’m currently learning  Angular
 - 💞️ I’m looking to collaborate on  Angular Projects
-- 📫 Email :rizikichristal@gmail.com
+- 📫 Email :rizikichristal@gmail.com/christalriziki@gmail.com
 - 😄 Pronouns: Mrs
 - ⚡ Fun fact: Love the C's , Crotchee, Culnary Art
 
