@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&lines=Web+Developer+using+Angular;Lover+of+CMS+Tools;Always+learning+Angular)](https://git.io/typing-svg)
 
-👀 I’m interested in **Web Development with Angular & CMS Tools**  
-🌱 I’m currently learning **Angular**  
-💞️ I’m looking to collaborate on **Angular Projects**  
+👀 I’m interested in **Web Development with Angular, React, JavaScript and Typescript & CMS Tools**  
+🌱 I’m currently working on HealthTech Projects, intergrating Hardware with Software  
+💞️ I’m looking to collaborate on **Various Projects**  
 📫 Reach me: **rizikichristal@gmail.com | christalriziki@gmail.com**  
 😄 Pronouns: **Mrs**  
 ⚡ Fun fact: Love the **C’s → Crotchee, Culinary Art**  
