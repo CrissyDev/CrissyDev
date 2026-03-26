@@ -11,22 +11,22 @@
 ## About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250" alt="Woman Coding GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6eHhyZ3R4bmZ6eHhyZ3R4bmZ6eHhyZ3R4bmZ6eHhyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWN6IuQZ98pIJSrM4F/giphy.gif" width="400" alt="Woman Coding GIF"/>
 </p>
 
 I’m passionate about building **real-world tech solutions** that make an impact.  
 Currently focused on **AI + HealthTech + Accessibility**.  
-Based in Kenya, building for the world 🌍.  
+Based in **Mombasa, Kenya**, building for the world 🌍.  
 
 ---
 
 ## What I Do
 
-* Build scalable **Angular applications**  
-* Integrate **AI (Gemini, ML models) into real apps**  
-* Develop **HealthTech solutions, Software, Websites, and Mobile Apps** (Symptom tracking, AI assistants)  
-* Work with **MediaPipe & real-time camera processing**  
-* Design **clean, modern UI/UX experiences**  
+* 🚀 Build scalable **Angular 20+ applications** using modern Control Flow (`@if`, `@for`).
+* 🧠 Integrate **AI (Gemini Flash, LLMs)** into functional web ecosystems.
+* 🏥 Develop **HealthTech solutions** (Symptom tracking, AI medical assistants).
+* 📷 Work with **MediaPipe** for real-time computer vision and accessibility tools.
+* 🎨 Design **clean, high-performance UI/UX experiences**.
 
 ---
 
@@ -43,7 +43,7 @@ Based in Kenya, building for the world 🌍.
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 
 ### AI / Tools
-![Gemini](https://img.shields.io/badge/Gemini-AI-purple)
+![Gemini](https://img.shields.io/badge/Gemini-AI-purple?logo=google-gemini&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-vision-green)
 
 ### Backend & Tools
@@ -55,20 +55,19 @@ Based in Kenya, building for the world 🌍.
 
 ## Featured Projects
 
-### Sign Language Translation App
-✨ Real-time hand tracking using MediaPipe  
-✨ Converts sign language → text responses  
-✨ Built with Angular + AI integration  
+### 🤟 Sign Language Translation App
+* Real-time hand tracking using **MediaPipe** and AI.
+* Converts sign language into text/speech for inclusive communication.
+* Built with **Angular + Gemini AI** integration.
 
-### AI Health Monitor
-✨ Tracks patient symptoms  
-✨ Uses AI to analyze health patterns  
-✨ Clean dashboard UI with real-time updates  
+### 🏥 AI Health Monitor
+* An intelligent dashboard that tracks patient symptoms and analyzes health patterns.
+* Uses **Gemini Flash** for instant medical data summarization.
+* Clean, accessible dashboard UI with real-time updates.
 
-### Smart E-commerce App
-✨ Full Angular app with cart, filters & checkout  
-✨ Dynamic product system  
-✨ Clean, modern UI  
+### 🛍️ Smart E-commerce App
+* Full-stack Angular application featuring dynamic filtering and secure checkout.
+* Optimized with modern **Signals-based reactivity**.
 
 ---
 
@@ -83,10 +82,10 @@ Based in Kenya, building for the world 🌍.
 
 ## Community & Impact
 
-* Organizer: **Angular Kenya Community & Tech Lead Pwani Teknowgalz**  
-* Founder: **Takabest**  
-* Trainer: **Angular & React Workshops**  
-* Passionate about **empowering women in tech**  
+* 🇰🇪 **Organizer:** Angular Kenya Community.
+* 👩‍💻 **Tech Lead:** Pwani Teknowgalz.
+* 🌱 **Founder:** Takabest.
+* 🎓 **Trainer:** Empowering the next generation through Angular & React workshops.
 
 ---
 
@@ -113,7 +112,7 @@ Based in Kenya, building for the world 🌍.
 
 ## ✨ Fun Fact
 
-⚡ I love the C’s → **Code, Crocheting & Culinary Art** 🍰🧶💻  
+⚡ I love the 3 C’s → **Code, Crocheting & Culinary Art** 🍰🧶💻 
 
 ---
 
