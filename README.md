@@ -34,12 +34,14 @@
 
 ### Frontend
 
-![Angular](https://img.shields.io/badge/Angular-red?logo=angular\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3\&logoColor=white)
-
+![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ###  AI / Tools
 
 ![Gemini](https://img.shields.io/badge/Gemini-AI-purple)
