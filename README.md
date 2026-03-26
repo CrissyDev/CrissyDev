@@ -1,26 +1,53 @@
-# 👋 Hi, I’m CrissyDev  
+# 👋 Hi, I'm Christal Riziki  
+### 🚀 Angular Developer | AI HealthTech Builder | Women in Tech Advocate
+## 💡 What I Do
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&lines=Web+Developer+using+Angular;Lover+of+CMS+Tools;Always+learning+Angular)](https://git.io/typing-svg)
+- 🔥 Build scalable **Angular applications**
+- 🤖 Integrate **AI (Gemini, ML models) into real apps**
+- 🧠 Develop **HealthTech solutions** (Symptom tracking, AI assistants)
+- 🎥 Work with **MediaPipe & real-time camera processing**
+- 🎨 Design clean, modern UI/UX experiences
 
-👀 I’m interested in **Web Development with Angular, React, JavaScript and Typescript & CMS Tools**  
-🌱 I’m currently working on HealthTech Projects, intergrating Hardware with Software  
-💞️ I’m looking to collaborate on **Various Projects**  
-📫 Reach me: **rizikichristal@gmail.com | christalriziki@gmail.com**  
-😄 Pronouns: **Mrs**  
-⚡ Fun fact: Love the **C’s → Crotchee, Culinary Art**  
+  ## 🛠️ Tech Stack
 
----
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-red?logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 
-### 🚀 My GitHub Stats  
-![CrissyDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrissyDev&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=CrissyDev&theme=radical&border_radius=4.5)
+### AI / Tools
+![Gemini](https://img.shields.io/badge/Gemini-AI-purple)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-vision-green)
 
----
+### Backend & Tools
+![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
+![Git](https://img.shields.io/badge/Git-black?logo=git)
 
-### 💡 Skills  
-![My Skills](https://skillicons.dev/icons?i=angular,html,css,js,ts,git,github,vscode)
+## 🚀 Featured Projects
 
----
+### 🧏‍♀️ Sign Language Translation App
+- Real-time hand tracking using MediaPipe
+- Converts sign language → text responses
+- Built with Angular + AI integration
 
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+### 🏥 AI Health Monitor
+- Tracks patient symptoms
+- Uses AI to analyze health patterns
+- Clean dashboard UI with real-time updates
 
+### 🛍️ Smart E-commerce App
+- Full Angular app with cart, filters & checkout
+- Clean UI + dynamic product system
+
+  ## 📊 GitHub Stats
+
+## 🌍 Community & Impact
+
+- 👩🏽‍💻 Organizer: Women in Tech Hackathon (August)
+- 🎤 Trainer: Angular Introduction Workshops
+- 💡 Passionate about empowering women in tech
+
+  ## 📫 Let's Connect
+
+- 📧 Email: christal.riziki@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/christal-riziki-470029280/
