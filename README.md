@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christal Riziki
 
-<h3 align="center"> Angular Developer | AI HealthTech Builder | Women in Tech Advocate | Software Developer</h3>
+<h3 align="center">Angular Developer | AI HealthTech Builder | Women in Tech Advocate | Software Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F72585&size=25&center=true&vCenter=true&width=500&lines=Building+AI-powered+solutions+🚀;Angular+Developer+💻;HealthTech+Innovator+🧠;Empowering+Women+in+Tech+👩🏽‍💻" />
@@ -11,29 +11,28 @@
 ## About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250" alt="Woman Coding GIF"/>
 </p>
 
- I’m passionate about building **real-world tech solutions** that make impact.
- Currently focused on **AI + HealthTech + Accessibility**
- Based in Kenya, building for the world
+I’m passionate about building **real-world tech solutions** that make an impact.  
+Currently focused on **AI + HealthTech + Accessibility**.  
+Based in Kenya, building for the world 🌍.  
 
 ---
 
-##  What I Do
+## What I Do
 
-* Build scalable **Angular applications**
-* Integrate **AI (Gemini, ML models) into real apps**
-*  Develop **HealthTech solutions** **Software** **Websites and Mobile Apps**(Symptom tracking, AI assistants)
-* Work with **MediaPipe & real-time camera processing**
-*  Design clean, modern UI/UX experiences
+* Build scalable **Angular applications**  
+* Integrate **AI (Gemini, ML models) into real apps**  
+* Develop **HealthTech solutions, Software, Websites, and Mobile Apps** (Symptom tracking, AI assistants)  
+* Work with **MediaPipe & real-time camera processing**  
+* Design **clean, modern UI/UX experiences**  
 
 ---
 
 ## Tech Stack
 
 ### Frontend
-
 ![Angular](https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
@@ -42,46 +41,38 @@
 ![React](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-###  AI / Tools
 
+### AI / Tools
 ![Gemini](https://img.shields.io/badge/Gemini-AI-purple)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-vision-green)
 
-### ⚙️ Backend & Tools
-
+### Backend & Tools
 ![Firebase](https://img.shields.io/badge/Firebase-orange?logo=firebase)
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-dark?logo=github)
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
-###  Sign Language Translation App
+### Sign Language Translation App
+✨ Real-time hand tracking using MediaPipe  
+✨ Converts sign language → text responses  
+✨ Built with Angular + AI integration  
 
-✨ Real-time hand tracking using MediaPipe
-✨ Converts sign language → text responses
-✨ Built with Angular + AI integration
+### AI Health Monitor
+✨ Tracks patient symptoms  
+✨ Uses AI to analyze health patterns  
+✨ Clean dashboard UI with real-time updates  
 
----
-
-###  AI Health Monitor
-
-✨ Tracks patient symptoms
-✨ Uses AI to analyze health patterns
-✨ Clean dashboard UI with real-time updates
-
----
-
-###  Smart E-commerce App
-
-✨ Full Angular app with cart, filters & checkout
-✨ Dynamic product system
-✨ Clean, modern UI
+### Smart E-commerce App
+✨ Full Angular app with cart, filters & checkout  
+✨ Dynamic product system  
+✨ Clean, modern UI  
 
 ---
 
-##  GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CrissyDev&show_icons=true&theme=radical" width="48%" />
@@ -90,15 +81,16 @@
 
 ---
 
-##  Community & Impact
+## Community & Impact
 
-*  Organizer: **Angular Kenya** **Community&Tech Lead Pwani Teknowgalz** **Founder:Takabest**
-* Trainer: **Angular Workshops** **React Workshops**
-* Passionate about empowering women in tech
+* Organizer: **Angular Kenya Community & Tech Lead Pwani Teknowgalz**  
+* Founder: **Takabest**  
+* Trainer: **Angular & React Workshops**  
+* Passionate about **empowering women in tech**  
 
 ---
 
-##  Achievements
+## Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CrissyDev&theme=radical&row=1&column=6" />
@@ -106,7 +98,7 @@
 
 ---
 
-##  Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="mailto:christal.riziki@gmail.com">
@@ -121,7 +113,7 @@
 
 ## ✨ Fun Fact
 
-⚡ I love the C’s → **Code, Crocheting & Culinary Art** 🍰🧶💻
+⚡ I love the C’s → **Code, Crocheting & Culinary Art** 🍰🧶💻  
 
 ---
 
