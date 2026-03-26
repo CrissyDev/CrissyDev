@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Christal Riziki
 
-<h3 align="center">🚀 Angular Developer | AI HealthTech Builder | Women in Tech Advocate</h3>
+<h3 align="center"> Angular Developer | AI HealthTech Builder | Women in Tech Advocate</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F72585&size=25&center=true&vCenter=true&width=500&lines=Building+AI-powered+solutions+🚀;Angular+Developer+💻;HealthTech+Innovator+🧠;Empowering+Women+in+Tech+👩🏽‍💻" />
@@ -8,31 +8,31 @@
 
 ---
 
-## 👩🏽‍💻 About Me
+## About Me
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="250" />
 </p>
 
-✨ I’m passionate about building **real-world tech solutions** that make impact.
-💡 Currently focused on **AI + HealthTech + Accessibility**
-🌍 Based in Kenya, building for the world
+ I’m passionate about building **real-world tech solutions** that make impact.
+ Currently focused on **AI + HealthTech + Accessibility**
+ Based in Kenya, building for the world
 
 ---
 
-## 💡 What I Do
+##  What I Do
 
-* 🔥 Build scalable **Angular applications**
-* 🤖 Integrate **AI (Gemini, ML models) into real apps**
-* 🧠 Develop **HealthTech solutions** (Symptom tracking, AI assistants)
-* 🎥 Work with **MediaPipe & real-time camera processing**
-* 🎨 Design clean, modern UI/UX experiences
+* Build scalable **Angular applications**
+* Integrate **AI (Gemini, ML models) into real apps**
+*  Develop **HealthTech solutions** **Software** **Websites and Mobile Apps**(Symptom tracking, AI assistants)
+* Work with **MediaPipe & real-time camera processing**
+*  Design clean, modern UI/UX experiences
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🚀 Frontend
+### Frontend
 
 ![Angular](https://img.shields.io/badge/Angular-red?logo=angular\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript\&logoColor=white)
@@ -40,7 +40,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3\&logoColor=white)
 
-### 🤖 AI / Tools
+###  AI / Tools
 
 ![Gemini](https://img.shields.io/badge/Gemini-AI-purple)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-vision-green)
@@ -53,9 +53,9 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🧏🏽‍♀️ Sign Language Translation App
+###  Sign Language Translation App
 
 ✨ Real-time hand tracking using MediaPipe
 ✨ Converts sign language → text responses
@@ -63,7 +63,7 @@
 
 ---
 
-### 🏥 AI Health Monitor
+###  AI Health Monitor
 
 ✨ Tracks patient symptoms
 ✨ Uses AI to analyze health patterns
@@ -71,7 +71,7 @@
 
 ---
 
-### 🛍️ Smart E-commerce App
+###  Smart E-commerce App
 
 ✨ Full Angular app with cart, filters & checkout
 ✨ Dynamic product system
@@ -79,7 +79,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CrissyDev&show_icons=true&theme=radical" width="48%" />
@@ -88,15 +88,15 @@
 
 ---
 
-## 🌍 Community & Impact
+##  Community & Impact
 
-* 👩🏽‍💻 Organizer: **Women in Tech Hackathon (August)**
-* 🎤 Trainer: **Angular Introduction Workshops**
-* 💡 Passionate about empowering women in tech
+*  Organizer: **Angular Kenya** **Community&Tech Lead Pwani Teknowgalz** **Founder:Takabest**
+* Trainer: **Angular Workshops** **React Workshops**
+* Passionate about empowering women in tech
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CrissyDev&theme=radical&row=1&column=6" />
@@ -104,7 +104,7 @@
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <p align="center">
   <a href="mailto:christal.riziki@gmail.com">
