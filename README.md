@@ -11,7 +11,7 @@
 ## About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bmZ6eHhyZ3R4bmZ6eHhyZ3R4bmZ6eHhyZ3R4bmZ6eHhyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWN6IuQZ98pIJSrM4F/giphy.gif" width="400" alt="Woman Coding GIF"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueGZ3bmZ6eHhyZ3R4bmZ6eHhyZ3R4bmZ6eHhyZ3R4bmZ6eHhyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="350" alt="Woman Coding GIF"/>
 </p>
 
 I’m passionate about building **real-world tech solutions** that make an impact.  
