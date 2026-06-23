@@ -3,7 +3,7 @@
 <h3 align="center">Frontend and Backend | AI HealthTech Builder | Women in Tech Advocate | Software Developer/Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F72585&size=25&center=true&vCenter=true&width=500&lines=Building+AI-powered+solutions+🚀;Angular+Developer+💻;HealthTech+Innovator+🧠;Empowering+Women+in+Tech+👩🏽‍💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F72585&size=25&center=true&vCenter=true&width=500&lines=Building+AI-powered+solutions+🚀;Angular💻;HealthTech+Innovator+🧠;Empowering+Women+in+Tech+👩🏽‍💻" />
 </p>
 
 ---
